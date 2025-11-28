@@ -8,7 +8,7 @@
 ***
 ## ***Функціональність***
 Виконує ознайомчу функцію
-
+![***ОПИС-ФУНКЦІЙ***](https://github.com/ZeyRank/my-first-repo/blob/main/DOCUMENTATION.md)
 ***
 ## ***Інструкція з встановлення***
 1 - git clone https://github.com/ZeyRank/my-first-repo.git
